@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/KhushieSharma/leet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0213-house-robber-ii](https://github.com/KhushieSharma/leet/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/KhushieSharma/leet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -85,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0460-lfu-cache](https://github.com/KhushieSharma/leet/tree/main/0460-lfu-cache/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/KhushieSharma/leet/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
