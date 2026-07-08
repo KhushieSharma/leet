@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/KhushieSharma/leet/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/KhushieSharma/leet/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushieSharma/leet/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KhushieSharma/leet/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/KhushieSharma/leet/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/KhushieSharma/leet/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/KhushieSharma/leet/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/KhushieSharma/leet/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/KhushieSharma/leet/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Binary Search
