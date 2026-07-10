@@ -117,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0110-balanced-binary-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/KhushieSharma/leet/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 <!---LeetCode Topics End-->
