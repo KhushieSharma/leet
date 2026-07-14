@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/KhushieSharma/leet/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/KhushieSharma/leet/tree/main/0518-coin-change-ii/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KhushieSharma/leet/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String
@@ -33,10 +34,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
 | [0460-lfu-cache](https://github.com/KhushieSharma/leet/tree/main/0460-lfu-cache/) | Hard |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushieSharma/leet/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushieSharma/leet/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -71,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -81,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/KhushieSharma/leet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +134,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhushieSharma/leet/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 <!---LeetCode Topics End-->
