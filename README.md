@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/KhushieSharma/leet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhushieSharma/leet/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KhushieSharma/leet/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0213-house-robber-ii](https://github.com/KhushieSharma/leet/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/KhushieSharma/leet/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KhushieSharma/leet/tree/main/0115-distinct-subsequences/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhushieSharma/leet/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KhushieSharma/leet/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0213-house-robber-ii](https://github.com/KhushieSharma/leet/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/KhushieSharma/leet/tree/main/0494-target-sum/) | Medium |
