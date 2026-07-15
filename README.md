@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KhushieSharma/leet/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0213-house-robber-ii](https://github.com/KhushieSharma/leet/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/KhushieSharma/leet/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/KhushieSharma/leet/tree/main/0518-coin-change-ii/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhushieSharma/leet/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KhushieSharma/leet/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0213-house-robber-ii](https://github.com/KhushieSharma/leet/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/KhushieSharma/leet/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/KhushieSharma/leet/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/KhushieSharma/leet/tree/main/0278-first-bad-version/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
