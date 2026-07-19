@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/KhushieSharma/leet/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/KhushieSharma/leet/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1048-longest-string-chain](https://github.com/KhushieSharma/leet/tree/main/1048-longest-string-chain/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhushieSharma/leet/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/KhushieSharma/leet/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/KhushieSharma/leet/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KhushieSharma/leet/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhushieSharma/leet/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhushieSharma/leet/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +158,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhushieSharma/leet/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhushieSharma/leet/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
