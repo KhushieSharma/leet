@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/KhushieSharma/leet/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/KhushieSharma/leet/tree/main/0518-coin-change-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/KhushieSharma/leet/tree/main/1048-longest-string-chain/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/KhushieSharma/leet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1048-longest-string-chain](https://github.com/KhushieSharma/leet/tree/main/1048-longest-string-chain/) | Medium |
 ## Counting
@@ -179,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/KhushieSharma/leet/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 <!---LeetCode Topics End-->
