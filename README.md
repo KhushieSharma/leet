@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -143,15 +144,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
