@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/KhushieSharma/leet/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0258-add-digits](https://github.com/KhushieSharma/leet/tree/main/0258-add-digits/) | Easy |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/KhushieSharma/leet/tree/main/0258-add-digits/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -215,4 +217,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/KhushieSharma/leet/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
