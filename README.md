@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/KhushieSharma/leet/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/KhushieSharma/leet/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0460-lfu-cache](https://github.com/KhushieSharma/leet/tree/main/0460-lfu-cache/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/KhushieSharma/leet/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/KhushieSharma/leet/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
