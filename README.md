@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/KhushieSharma/leet/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0463-island-perimeter](https://github.com/KhushieSharma/leet/tree/main/0463-island-perimeter/) | Easy |
 | [0494-target-sum](https://github.com/KhushieSharma/leet/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/KhushieSharma/leet/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0463-island-perimeter](https://github.com/KhushieSharma/leet/tree/main/0463-island-perimeter/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/KhushieSharma/leet/tree/main/0174-dungeon-game/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/KhushieSharma/leet/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0463-island-perimeter](https://github.com/KhushieSharma/leet/tree/main/0463-island-perimeter/) | Easy |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Sorting
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/KhushieSharma/leet/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0463-island-perimeter](https://github.com/KhushieSharma/leet/tree/main/0463-island-perimeter/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
