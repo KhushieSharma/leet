@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KhushieSharma/leet/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,11 +165,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/KhushieSharma/leet/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/KhushieSharma/leet/tree/main/0463-island-perimeter/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KhushieSharma/leet/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KhushieSharma/leet/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/KhushieSharma/leet/tree/main/0258-add-digits/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/KhushieSharma/leet/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
