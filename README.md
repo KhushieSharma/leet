@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/KhushieSharma/leet/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
 | [0460-lfu-cache](https://github.com/KhushieSharma/leet/tree/main/0460-lfu-cache/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/KhushieSharma/leet/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/KhushieSharma/leet/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/KhushieSharma/leet/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0460-lfu-cache](https://github.com/KhushieSharma/leet/tree/main/0460-lfu-cache/) | Hard |
 ## Design
 | Problem Name | Difficulty |
