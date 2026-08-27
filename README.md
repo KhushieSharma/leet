@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/KhushieSharma/leet/tree/main/0174-dungeon-game/) | Hard |
 | [0213-house-robber-ii](https://github.com/KhushieSharma/leet/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
+| [0289-game-of-life](https://github.com/KhushieSharma/leet/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/KhushieSharma/leet/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/KhushieSharma/leet/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0174-dungeon-game](https://github.com/KhushieSharma/leet/tree/main/0174-dungeon-game/) | Hard |
+| [0289-game-of-life](https://github.com/KhushieSharma/leet/tree/main/0289-game-of-life/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/KhushieSharma/leet/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/KhushieSharma/leet/tree/main/0463-island-perimeter/) | Easy |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/KhushieSharma/leet/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0258-add-digits](https://github.com/KhushieSharma/leet/tree/main/0258-add-digits/) | Easy |
+| [0289-game-of-life](https://github.com/KhushieSharma/leet/tree/main/0289-game-of-life/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
