@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
 | [1048-longest-string-chain](https://github.com/KhushieSharma/leet/tree/main/1048-longest-string-chain/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KhushieSharma/leet/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/KhushieSharma/leet/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/KhushieSharma/leet/tree/main/0463-island-perimeter/) | Easy |
 | [0529-minesweeper](https://github.com/KhushieSharma/leet/tree/main/0529-minesweeper/) | Medium |
+| [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Sorting
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KhushieSharma/leet/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KhushieSharma/leet/tree/main/0088-merge-sorted-array/) | Easy |
+| [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
 | [1048-longest-string-chain](https://github.com/KhushieSharma/leet/tree/main/1048-longest-string-chain/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/KhushieSharma/leet/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -222,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/KhushieSharma/leet/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0258-add-digits](https://github.com/KhushieSharma/leet/tree/main/0258-add-digits/) | Easy |
 | [0289-game-of-life](https://github.com/KhushieSharma/leet/tree/main/0289-game-of-life/) | Medium |
+| [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
