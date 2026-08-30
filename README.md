@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
+| [0986-interval-list-intersections](https://github.com/KhushieSharma/leet/tree/main/0986-interval-list-intersections/) | Medium |
 | [1048-longest-string-chain](https://github.com/KhushieSharma/leet/tree/main/1048-longest-string-chain/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KhushieSharma/leet/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KhushieSharma/leet/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KhushieSharma/leet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
+| [0986-interval-list-intersections](https://github.com/KhushieSharma/leet/tree/main/0986-interval-list-intersections/) | Medium |
 | [1048-longest-string-chain](https://github.com/KhushieSharma/leet/tree/main/1048-longest-string-chain/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -279,4 +281,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/KhushieSharma/leet/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/KhushieSharma/leet/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
