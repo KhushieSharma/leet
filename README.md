@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/KhushieSharma/leet/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/KhushieSharma/leet/tree/main/0263-ugly-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/KhushieSharma/leet/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1927-sum-game](https://github.com/KhushieSharma/leet/tree/main/1927-sum-game/) | Medium |
