@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KhushieSharma/leet/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/KhushieSharma/leet/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/KhushieSharma/leet/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KhushieSharma/leet/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/KhushieSharma/leet/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0460-lfu-cache](https://github.com/KhushieSharma/leet/tree/main/0460-lfu-cache/) | Hard |
 ## Design
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KhushieSharma/leet/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KhushieSharma/leet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/KhushieSharma/leet/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
@@ -187,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KhushieSharma/leet/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KhushieSharma/leet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -200,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KhushieSharma/leet/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KhushieSharma/leet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KhushieSharma/leet/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
