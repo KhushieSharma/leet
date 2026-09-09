@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/KhushieSharma/leet/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KhushieSharma/leet/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0814-binary-tree-pruning](https://github.com/KhushieSharma/leet/tree/main/0814-binary-tree-pruning/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/KhushieSharma/leet/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0529-minesweeper](https://github.com/KhushieSharma/leet/tree/main/0529-minesweeper/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/KhushieSharma/leet/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0814-binary-tree-pruning](https://github.com/KhushieSharma/leet/tree/main/0814-binary-tree-pruning/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/KhushieSharma/leet/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/KhushieSharma/leet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/KhushieSharma/leet/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KhushieSharma/leet/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0814-binary-tree-pruning](https://github.com/KhushieSharma/leet/tree/main/0814-binary-tree-pruning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
