@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0429-n-ary-tree-level-order-traversal](https://github.com/KhushieSharma/leet/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0463-island-perimeter](https://github.com/KhushieSharma/leet/tree/main/0463-island-perimeter/) | Easy |
 | [0529-minesweeper](https://github.com/KhushieSharma/leet/tree/main/0529-minesweeper/) | Medium |
+| [0743-network-delay-time](https://github.com/KhushieSharma/leet/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/KhushieSharma/leet/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/KhushieSharma/leet/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0743-network-delay-time](https://github.com/KhushieSharma/leet/tree/main/0743-network-delay-time/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/KhushieSharma/leet/tree/main/0463-island-perimeter/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KhushieSharma/leet/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0529-minesweeper](https://github.com/KhushieSharma/leet/tree/main/0529-minesweeper/) | Medium |
+| [0743-network-delay-time](https://github.com/KhushieSharma/leet/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/KhushieSharma/leet/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/KhushieSharma/leet/tree/main/0814-binary-tree-pruning/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KhushieSharma/leet/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -277,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0743-network-delay-time](https://github.com/KhushieSharma/leet/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/KhushieSharma/leet/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/KhushieSharma/leet/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Topological Sort
@@ -331,4 +335,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/KhushieSharma/leet/tree/main/0365-water-and-jug-problem/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/KhushieSharma/leet/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/KhushieSharma/leet/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
