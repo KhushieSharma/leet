@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KhushieSharma/leet/tree/main/0049-group-anagrams/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KhushieSharma/leet/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KhushieSharma/leet/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KhushieSharma/leet/tree/main/0088-merge-sorted-array/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KhushieSharma/leet/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/KhushieSharma/leet/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KhushieSharma/leet/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/KhushieSharma/leet/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KhushieSharma/leet/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/KhushieSharma/leet/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
 | [0460-lfu-cache](https://github.com/KhushieSharma/leet/tree/main/0460-lfu-cache/) | Hard |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KhushieSharma/leet/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KhushieSharma/leet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
