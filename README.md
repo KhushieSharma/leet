@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0986-interval-list-intersections](https://github.com/KhushieSharma/leet/tree/main/0986-interval-list-intersections/) | Medium |
 | [1048-longest-string-chain](https://github.com/KhushieSharma/leet/tree/main/1048-longest-string-chain/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KhushieSharma/leet/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KhushieSharma/leet/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KhushieSharma/leet/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -67,11 +68,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1048-longest-string-chain](https://github.com/KhushieSharma/leet/tree/main/1048-longest-string-chain/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushieSharma/leet/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KhushieSharma/leet/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushieSharma/leet/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KhushieSharma/leet/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KhushieSharma/leet/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/KhushieSharma/leet/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KhushieSharma/leet/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -319,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/KhushieSharma/leet/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KhushieSharma/leet/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
