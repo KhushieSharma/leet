@@ -358,4 +358,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/KhushieSharma/leet/tree/main/0743-network-delay-time/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1251-average-selling-price](https://github.com/KhushieSharma/leet/tree/main/1251-average-selling-price/) | Easy |
 <!---LeetCode Topics End-->
