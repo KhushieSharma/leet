@@ -362,4 +362,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1251-average-selling-price](https://github.com/KhushieSharma/leet/tree/main/1251-average-selling-price/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/KhushieSharma/leet/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 <!---LeetCode Topics End-->
