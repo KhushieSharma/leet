@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/KhushieSharma/leet/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KhushieSharma/leet/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KhushieSharma/leet/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KhushieSharma/leet/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1927-sum-game](https://github.com/KhushieSharma/leet/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KhushieSharma/leet/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KhushieSharma/leet/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhushieSharma/leet/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KhushieSharma/leet/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,4 +367,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1251-average-selling-price](https://github.com/KhushieSharma/leet/tree/main/1251-average-selling-price/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/KhushieSharma/leet/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KhushieSharma/leet/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
