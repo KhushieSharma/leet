@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/KhushieSharma/leet/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/KhushieSharma/leet/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/KhushieSharma/leet/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/KhushieSharma/leet/tree/main/0463-island-perimeter/) | Easy |
 | [0494-target-sum](https://github.com/KhushieSharma/leet/tree/main/0494-target-sum/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/KhushieSharma/leet/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/KhushieSharma/leet/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/KhushieSharma/leet/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/KhushieSharma/leet/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/KhushieSharma/leet/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/KhushieSharma/leet/tree/main/0518-coin-change-ii/) | Medium |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/KhushieSharma/leet/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/KhushieSharma/leet/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KhushieSharma/leet/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Breadth-First Search
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhushieSharma/leet/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/KhushieSharma/leet/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhushieSharma/leet/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1927-sum-game](https://github.com/KhushieSharma/leet/tree/main/1927-sum-game/) | Medium |
@@ -333,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/KhushieSharma/leet/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/KhushieSharma/leet/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KhushieSharma/leet/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Pigeonhole Principle
