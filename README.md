@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KhushieSharma/leet/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0062-unique-paths](https://github.com/KhushieSharma/leet/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/KhushieSharma/leet/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KhushieSharma/leet/tree/main/0115-distinct-subsequences/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KhushieSharma/leet/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/KhushieSharma/leet/tree/main/0062-unique-paths/) | Medium |
 | [0258-add-digits](https://github.com/KhushieSharma/leet/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/KhushieSharma/leet/tree/main/0263-ugly-number/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/KhushieSharma/leet/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -390,4 +392,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KhushieSharma/leet/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/KhushieSharma/leet/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
