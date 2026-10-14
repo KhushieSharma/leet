@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KhushieSharma/leet/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0682-baseball-game](https://github.com/KhushieSharma/leet/tree/main/0682-baseball-game/) | Easy |
 | [0794-valid-tic-tac-toe-state](https://github.com/KhushieSharma/leet/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/KhushieSharma/leet/tree/main/0867-transpose-matrix/) | Easy |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/KhushieSharma/leet/tree/main/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/KhushieSharma/leet/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KhushieSharma/leet/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KhushieSharma/leet/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/KhushieSharma/leet/tree/main/0415-add-strings/) | Easy |
 | [0495-teemo-attacking](https://github.com/KhushieSharma/leet/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/KhushieSharma/leet/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/KhushieSharma/leet/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/KhushieSharma/leet/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
