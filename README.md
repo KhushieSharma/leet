@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/KhushieSharma/leet/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/KhushieSharma/leet/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KhushieSharma/leet/tree/main/0115-distinct-subsequences/) | Hard |
+| [0415-add-strings](https://github.com/KhushieSharma/leet/tree/main/0415-add-strings/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/KhushieSharma/leet/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/KhushieSharma/leet/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/KhushieSharma/leet/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/KhushieSharma/leet/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0258-add-digits](https://github.com/KhushieSharma/leet/tree/main/0258-add-digits/) | Easy |
 | [0289-game-of-life](https://github.com/KhushieSharma/leet/tree/main/0289-game-of-life/) | Medium |
+| [0415-add-strings](https://github.com/KhushieSharma/leet/tree/main/0415-add-strings/) | Easy |
 | [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/KhushieSharma/leet/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/KhushieSharma/leet/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/KhushieSharma/leet/tree/main/0263-ugly-number/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/KhushieSharma/leet/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0415-add-strings](https://github.com/KhushieSharma/leet/tree/main/0415-add-strings/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/KhushieSharma/leet/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1927-sum-game](https://github.com/KhushieSharma/leet/tree/main/1927-sum-game/) | Medium |
