@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0610-triangle-judgement](https://github.com/KhushieSharma/leet/tree/main/0610-triangle-judgement/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/KhushieSharma/leet/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/KhushieSharma/leet/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/KhushieSharma/leet/tree/main/1211-queries-quality-and-percentage/) | Easy |
