@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/KhushieSharma/leet/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/KhushieSharma/leet/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KhushieSharma/leet/tree/main/0115-distinct-subsequences/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/KhushieSharma/leet/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0415-add-strings](https://github.com/KhushieSharma/leet/tree/main/0415-add-strings/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/KhushieSharma/leet/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/KhushieSharma/leet/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/KhushieSharma/leet/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KhushieSharma/leet/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KhushieSharma/leet/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/KhushieSharma/leet/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
 | [0986-interval-list-intersections](https://github.com/KhushieSharma/leet/tree/main/0986-interval-list-intersections/) | Medium |
 | [1048-longest-string-chain](https://github.com/KhushieSharma/leet/tree/main/1048-longest-string-chain/) | Medium |
