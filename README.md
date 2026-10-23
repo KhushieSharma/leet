@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/KhushieSharma/leet/tree/main/0174-dungeon-game/) | Hard |
 | [0213-house-robber-ii](https://github.com/KhushieSharma/leet/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/KhushieSharma/leet/tree/main/0229-majority-element-ii/) | Medium |
+| [0275-h-index-ii](https://github.com/KhushieSharma/leet/tree/main/0275-h-index-ii/) | Medium |
 | [0289-game-of-life](https://github.com/KhushieSharma/leet/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/KhushieSharma/leet/tree/main/0312-burst-balloons/) | Hard |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0275-h-index-ii](https://github.com/KhushieSharma/leet/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/KhushieSharma/leet/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/KhushieSharma/leet/tree/main/0410-split-array-largest-sum/) | Hard |
