@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/KhushieSharma/leet/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/KhushieSharma/leet/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/KhushieSharma/leet/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0441-arranging-coins](https://github.com/KhushieSharma/leet/tree/main/0441-arranging-coins/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KhushieSharma/leet/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Breadth-First Search
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/KhushieSharma/leet/tree/main/0263-ugly-number/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/KhushieSharma/leet/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0415-add-strings](https://github.com/KhushieSharma/leet/tree/main/0415-add-strings/) | Easy |
+| [0441-arranging-coins](https://github.com/KhushieSharma/leet/tree/main/0441-arranging-coins/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/KhushieSharma/leet/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1927-sum-game](https://github.com/KhushieSharma/leet/tree/main/1927-sum-game/) | Medium |
