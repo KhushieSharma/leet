@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0986-interval-list-intersections](https://github.com/KhushieSharma/leet/tree/main/0986-interval-list-intersections/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/KhushieSharma/leet/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1048-longest-string-chain](https://github.com/KhushieSharma/leet/tree/main/1048-longest-string-chain/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/KhushieSharma/leet/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KhushieSharma/leet/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KhushieSharma/leet/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -142,11 +143,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/KhushieSharma/leet/tree/main/0743-network-delay-time/) | Medium |
 | [0749-contain-virus](https://github.com/KhushieSharma/leet/tree/main/0749-contain-virus/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/KhushieSharma/leet/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/KhushieSharma/leet/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/KhushieSharma/leet/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/KhushieSharma/leet/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/KhushieSharma/leet/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-valid-tic-tac-toe-state](https://github.com/KhushieSharma/leet/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0832-flipping-an-image](https://github.com/KhushieSharma/leet/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/KhushieSharma/leet/tree/main/0867-transpose-matrix/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/KhushieSharma/leet/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KhushieSharma/leet/tree/main/1260-shift-2d-grid/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Sorting
@@ -250,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-contain-virus](https://github.com/KhushieSharma/leet/tree/main/0749-contain-virus/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/KhushieSharma/leet/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/KhushieSharma/leet/tree/main/0814-binary-tree-pruning/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/KhushieSharma/leet/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KhushieSharma/leet/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/KhushieSharma/leet/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
