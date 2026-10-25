@@ -144,12 +144,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-contain-virus](https://github.com/KhushieSharma/leet/tree/main/0749-contain-virus/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/KhushieSharma/leet/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/KhushieSharma/leet/tree/main/1254-number-of-closed-islands/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KhushieSharma/leet/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/KhushieSharma/leet/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/KhushieSharma/leet/tree/main/1254-number-of-closed-islands/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KhushieSharma/leet/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/KhushieSharma/leet/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0814-binary-tree-pruning](https://github.com/KhushieSharma/leet/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/KhushieSharma/leet/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KhushieSharma/leet/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KhushieSharma/leet/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/KhushieSharma/leet/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KhushieSharma/leet/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0743-network-delay-time](https://github.com/KhushieSharma/leet/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/KhushieSharma/leet/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KhushieSharma/leet/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/KhushieSharma/leet/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
