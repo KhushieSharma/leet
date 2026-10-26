@@ -1,35 +1,34 @@
 class Solution {
 public:
-    bool solve(string s1,string s2){
-        if(s1.size()!=s2.size()+1)return false;
-        int l=0, r=0;
-        int n=s1.size(),m=s2.size();
-        while(l<n){
-            if(s1[l]==s2[r]){
-                l++;
-                r++;
-            }
-            else l++;
-        }
-        if(l==n && r==m)return true;
-        return false;
+    static bool cmp(string a,string b){
+        return a.size()<b.size();
     }
-    static bool comp(string &s1,string &s2){
-        return s1.size()<s2.size();
-    }
-    int longestStrChain(vector<string>& arr) {
-        sort(arr.begin(),arr.end(),comp);
-        int n=arr.size();
-        vector<int>dp(n,1);
-        int maxi=0;
-        for(int i=0;i<n;i++){
-            for(int prev=0;prev<i;prev++){
-                if(solve(arr[i],arr[prev]) && 1+dp[prev]>dp[i]){
-                    dp[i]=1+dp[prev];
-                }
+    bool compare(string &s,string &t){
+        int n=s.size();
+        int m=t.size();
+        if(m-n!=1)return false;
+        int i=0,j=0;
+        while(i<n && j<m){
+            if(s[i]==t[j]){
+                i++;
+                j++;
             }
-            if(dp[i]>maxi)maxi=dp[i];
+            else j++;
         }
-        return maxi;
+        return i==n;
+    }
+    int sol(vector<string>&wor,int i,int prev,vector<vector<int>>&dp){
+        if(i>=wor.size())return 0;
+        if(dp[i][prev+1]!=-1)return dp[i][prev+1];
+        int t=0;
+        if(prev==-1 || compare(wor[prev],wor[i]))t=1+sol(wor,i+1,i,dp);
+        int nt=sol(wor,i+1,prev,dp);
+        return dp[i][prev+1]=max(t,nt);
+    }
+    int longestStrChain(vector<string>& wor) {
+        if(wor.size()==1)return 1;
+        sort(wor.begin(),wor.end(),cmp);
+        vector<vector<int>>dp(wor.size(),vector<int>(wor.size()+1,-1));
+        return sol(wor,0,-1,dp);
     }
 };
