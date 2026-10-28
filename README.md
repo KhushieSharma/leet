@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/KhushieSharma/leet/tree/main/0743-network-delay-time/) | Medium |
 | [0749-contain-virus](https://github.com/KhushieSharma/leet/tree/main/0749-contain-virus/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/KhushieSharma/leet/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/KhushieSharma/leet/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KhushieSharma/leet/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/KhushieSharma/leet/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/KhushieSharma/leet/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/KhushieSharma/leet/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/KhushieSharma/leet/tree/main/0814-binary-tree-pruning/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0965-univalued-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KhushieSharma/leet/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-contain-virus](https://github.com/KhushieSharma/leet/tree/main/0749-contain-virus/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/KhushieSharma/leet/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/KhushieSharma/leet/tree/main/0814-binary-tree-pruning/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/KhushieSharma/leet/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KhushieSharma/leet/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KhushieSharma/leet/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/KhushieSharma/leet/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/KhushieSharma/leet/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/KhushieSharma/leet/tree/main/0814-binary-tree-pruning/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/KhushieSharma/leet/tree/main/0965-univalued-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KhushieSharma/leet/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
