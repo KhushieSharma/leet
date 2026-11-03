@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KhushieSharma/leet/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KhushieSharma/leet/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KhushieSharma/leet/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KhushieSharma/leet/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/KhushieSharma/leet/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/KhushieSharma/leet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1927-sum-game](https://github.com/KhushieSharma/leet/tree/main/1927-sum-game/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KhushieSharma/leet/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KhushieSharma/leet/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/KhushieSharma/leet/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
